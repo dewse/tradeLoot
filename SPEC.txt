@@ -1,0 +1,6 @@
+Work on module to speculate best trades based on values either standalone
+injected or through pawn plugin
+
+BASIC: Setup file which logs into a file current player's info stats (updateable).
+
+BASIC2: Pawn % + bonus
